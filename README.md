@@ -24,9 +24,7 @@ I'm a passionate Full Stack MERN Developer with a deep love for creating dynamic
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Rushikesh Bhalerao](https://linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: youremail@example.com
+
 
 ---
 
